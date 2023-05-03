@@ -1,0 +1,6 @@
+migrations/
+db.sqlite3
+.env
+Pipfile
+Pipfile.lock
+__pycache__/
